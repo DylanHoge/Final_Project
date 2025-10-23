@@ -1,7 +1,43 @@
-echo "# Final-Project-ECON2250" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DylanHoge/Final-Project-ECON2250.git
-git push -u origin main
+Research Topic:
+
+The Influence of Gender, Race, Education Level, and Income on Political Affiliation in the United States
+
+1. Brief Description of the Topic
+
+This research will analyze how demographic factors such as gender, race, education level, and income influence political affiliation in the United States, specifically whether individuals identify as Democrats or Republicans. Given the country’s ongoing political polarization, this topic seeks to understand how these socio-economic and demographic factors shape political identity, voting patterns, and party loyalty.
+
+2. Motivation for Investigating This Topic
+
+The U.S. political landscape has become increasingly divided, and understanding the demographic factors influencing political affiliation is crucial to predicting future voting patterns, informing political campaigns, and guiding policy decisions. Examining gender, race, education, and income helps shed light on the structural forces that contribute to party identification and voter behavior, providing valuable insights for political analysts, sociologists, and policy-makers.
+
+3. Potential Audience(s)
+
+Political Scientists and Analysts: They will be interested in the correlation between demographics and party identification to better understand voting behaviors.
+
+Policy Makers and Political Campaigns: They can use the findings to tailor their messaging and strategies to different demographic groups.
+
+Sociologists and Demographers: They may use this information to understand broader social trends and divisions in the country.
+
+General Public and Voters: Individuals interested in how societal factors influence political affiliation may find this research eye-opening and relevant for making informed decisions.
+
+4. Potential Research Questions
+
+How do gender, race, education level, and income interact to influence political affiliation (Democrat vs. Republican) in the United States?
+
+What is the relative importance of income versus education level in predicting whether an individual identifies as a Democrat or Republican?
+
+Do racial and gender disparities significantly contribute to differences in political party identification among voters, and if so, how?
+
+How do socio-economic factors influence political affiliation differently across various regions of the U.S. (e.g., urban vs. rural)?
+
+5. Ideas About the Type of Data or Potential Datasets
+
+National Election Studies (NES) Data: This dataset contains information on demographic factors (including race, gender, education, and income) along with political affiliation, and is one of the best resources for understanding voting behavior.
+
+Census Data (American Community Survey): The U.S. Census provides detailed demographic data (race, gender, income, education level) and could be used to look at general population trends in political affiliation.
+
+Pew Research Center Surveys: Pew frequently conducts political surveys that include demographic information and political preferences. These could be valuable for analyzing the influence of socio-economic factors on party affiliation.
+
+Exit Polls Data: Exit poll data from national elections can provide insights into how different demographic groups voted in relation to party affiliation.
+
+State-Specific Polls or Surveys: Some states conduct their own voter surveys that provide data on political affiliation and demographic characteristics, which could be used for more localized studies.
